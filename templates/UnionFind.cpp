@@ -38,4 +38,10 @@ public:
         --setCount;
         return true;
     }
+
+    bool isConnected(int x, int y) {
+        x = find(x);
+        y = find(y);
+        return x == y;
+    }
 };
