@@ -43,6 +43,7 @@ Problem Solution|Difficulty|Remark
 [8. String to Integer (atoi)](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0008.String_to_Integer_atoi.cpp)&ensp; ([Description](https://leetcode-cn.com/problems/string-to-integer-atoi/)) | Medium
 |12. Integer to Roman | Medium | Greedy
 |13. Roman to Integer | Easy |
+|14. Longest Common Prefix| Easy |
 
 
 ## <span id="TwoPointers">Two Pointers</span>
