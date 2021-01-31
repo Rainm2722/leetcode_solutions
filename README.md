@@ -53,5 +53,5 @@ Problem Solution|Difficulty|Remark
 ## <span id="UnionFind">Union Find</span>
 Problem Solution|Difficulty|Remark
 :----|:----:|:----:
-839. Similar String Groups | Hard | 
+[839. Similar String Groups](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0839.Similar_String_Groups.cpp) | Hard | 
 [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/1579.Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Hard | 
