@@ -41,8 +41,8 @@ Problem Solution|Difficulty|Remark
 [5. Longest Palindromic Substring](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0005.Longest_Palindromic_Substring.cpp)&ensp; ([Description](https://leetcode-cn.com/problems/longest-palindromic-substring/)) | Medium|DP 
 [6. ZigZag Conversion](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0006.ZigZag_Conversion.cpp)&ensp; ([Description](https://leetcode-cn.com/problems/zigzag-conversion/)) | Medium
 [8. String to Integer (atoi)](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0008.String_to_Integer_atoi.cpp)&ensp; ([Description](https://leetcode-cn.com/problems/string-to-integer-atoi/)) | Medium
-(12. Integer to Roman) | Medium | Greedy
-(13. Roman to Integer) | Easy |
+|12. Integer to Roman | Medium | Greedy
+|13. Roman to Integer | Easy |
 
 
 ## <span id="TwoPointers">Two Pointers</span>
