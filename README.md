@@ -16,6 +16,7 @@ Problem Solution|Difficulty|Remark
 :----|:----:|:----:
 [1. Two Sum](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0001.Two_Sum.cpp) &ensp; ([Description](https://leetcode-cn.com/problems/two-sum/)) | Easy
 [11. Container With Most Water](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0011.Container_With_Most_Water.cpp) | Medium | 
+| 888. Fair Candy Swap | Easy |
 
 
 ## <span id="LinkedList">Linked List</span>
@@ -51,6 +52,7 @@ Problem Solution|Difficulty|Remark
 :----|:----:|:----:
 [3. Longest Substring Without Repeating Characters](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0003.Longest_Substring_Without_Repeating_Characters.cpp) &ensp; ([Description](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)) | Medium | 
 [11. Container With Most Water](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0011.Container_With_Most_Water.cpp) | Medium | 
+| 888. Fair Candy Swap | Easy |
 
 
 ## <span id="UnionFind">Union Find</span>
