@@ -29,6 +29,8 @@ Problem Solution|Difficulty|Remark
 Problem Solution|Difficulty|Remark
 :----|:----:|:----:
 [3. Longest Substring Without Repeating Characters](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0003.Longest_Substring_Without_Repeating_Characters.cpp) &ensp; ([Description](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)) | Medium | 
+| 1423. Maximum Points You Can Obtain from Cards | Medium | DP
+
 ## <span id="Stack">Stack</span>
 Problem Solution|Difficulty|Remark
 :----|:----:|:----:
