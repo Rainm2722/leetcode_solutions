@@ -3,6 +3,7 @@ My solutions to leetcode problems.(mostly using c++)
 
 * [Array](#Array)
 * [Linked List](#LinkedList)
+* [Recursion](#Recursion)
 * [Sliding Window](#Sliding)
 * [Stack](#Stack)
 * [String](#String)
@@ -24,6 +25,11 @@ Problem Solution|Difficulty|Remark
 :----|:----:|:----:
 [2. Add Two Numbers](https://github.com/Rainm2722/leetcode_solutions/blob/master/solutions/0002.Add_Two_Numbers.cpp) &ensp; ([Description](https://leetcode-cn.com/problems/add-two-numbers/)) | Medium
 
+
+## <span id="Recursion">Recursion</span>
+Problem Solution|Difficulty|Remark
+:----|:----:|:----:
+|95. Unique Binary Search Trees II| Medium |
 
 ## <span id="Sliding">Sliding Window</span>
 Problem Solution|Difficulty|Remark
